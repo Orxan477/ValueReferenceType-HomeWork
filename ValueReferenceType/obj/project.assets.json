@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Orxan477\\source\\repos\\ValueReferenceType\\ValueReferenceType\\ValueReferenceType.csproj",
+      "projectUniqueName": "D:\\HP\\Documents\\Private\\Code Academy\\Back-End\\C#\\ValueReferenceType\\ValueReferenceType\\ValueReferenceType.csproj",
       "projectName": "ValueReferenceType",
-      "projectPath": "C:\\Users\\Orxan477\\source\\repos\\ValueReferenceType\\ValueReferenceType\\ValueReferenceType.csproj",
+      "projectPath": "D:\\HP\\Documents\\Private\\Code Academy\\Back-End\\C#\\ValueReferenceType\\ValueReferenceType\\ValueReferenceType.csproj",
       "packagesPath": "C:\\Users\\Orxan477\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Orxan477\\source\\repos\\ValueReferenceType\\ValueReferenceType\\obj\\",
+      "outputPath": "D:\\HP\\Documents\\Private\\Code Academy\\Back-End\\C#\\ValueReferenceType\\ValueReferenceType\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }

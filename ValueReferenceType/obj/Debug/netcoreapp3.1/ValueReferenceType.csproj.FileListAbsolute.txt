@@ -12,3 +12,17 @@ C:\Users\Orxan477\source\repos\ValueReferenceType\ValueReferenceType\obj\Debug\n
 C:\Users\Orxan477\source\repos\ValueReferenceType\ValueReferenceType\obj\Debug\netcoreapp3.1\ValueReferenceType.dll
 C:\Users\Orxan477\source\repos\ValueReferenceType\ValueReferenceType\obj\Debug\netcoreapp3.1\ValueReferenceType.pdb
 C:\Users\Orxan477\source\repos\ValueReferenceType\ValueReferenceType\obj\Debug\netcoreapp3.1\ValueReferenceType.genruntimeconfig.cache
+D:\HP\Documents\Private\Code Academy\Back-End\C#\ValueReferenceType\ValueReferenceType\bin\Debug\netcoreapp3.1\ValueReferenceType.exe
+D:\HP\Documents\Private\Code Academy\Back-End\C#\ValueReferenceType\ValueReferenceType\bin\Debug\netcoreapp3.1\ValueReferenceType.deps.json
+D:\HP\Documents\Private\Code Academy\Back-End\C#\ValueReferenceType\ValueReferenceType\bin\Debug\netcoreapp3.1\ValueReferenceType.runtimeconfig.json
+D:\HP\Documents\Private\Code Academy\Back-End\C#\ValueReferenceType\ValueReferenceType\bin\Debug\netcoreapp3.1\ValueReferenceType.runtimeconfig.dev.json
+D:\HP\Documents\Private\Code Academy\Back-End\C#\ValueReferenceType\ValueReferenceType\bin\Debug\netcoreapp3.1\ValueReferenceType.dll
+D:\HP\Documents\Private\Code Academy\Back-End\C#\ValueReferenceType\ValueReferenceType\bin\Debug\netcoreapp3.1\ValueReferenceType.pdb
+D:\HP\Documents\Private\Code Academy\Back-End\C#\ValueReferenceType\ValueReferenceType\obj\Debug\netcoreapp3.1\ValueReferenceType.csproj.AssemblyReference.cache
+D:\HP\Documents\Private\Code Academy\Back-End\C#\ValueReferenceType\ValueReferenceType\obj\Debug\netcoreapp3.1\ValueReferenceType.GeneratedMSBuildEditorConfig.editorconfig
+D:\HP\Documents\Private\Code Academy\Back-End\C#\ValueReferenceType\ValueReferenceType\obj\Debug\netcoreapp3.1\ValueReferenceType.AssemblyInfoInputs.cache
+D:\HP\Documents\Private\Code Academy\Back-End\C#\ValueReferenceType\ValueReferenceType\obj\Debug\netcoreapp3.1\ValueReferenceType.AssemblyInfo.cs
+D:\HP\Documents\Private\Code Academy\Back-End\C#\ValueReferenceType\ValueReferenceType\obj\Debug\netcoreapp3.1\ValueReferenceType.csproj.CoreCompileInputs.cache
+D:\HP\Documents\Private\Code Academy\Back-End\C#\ValueReferenceType\ValueReferenceType\obj\Debug\netcoreapp3.1\ValueReferenceType.dll
+D:\HP\Documents\Private\Code Academy\Back-End\C#\ValueReferenceType\ValueReferenceType\obj\Debug\netcoreapp3.1\ValueReferenceType.pdb
+D:\HP\Documents\Private\Code Academy\Back-End\C#\ValueReferenceType\ValueReferenceType\obj\Debug\netcoreapp3.1\ValueReferenceType.genruntimeconfig.cache

@@ -29,16 +29,15 @@ namespace ValueReferenceType
             //                        {
             //                            test = false;
             //                            break;
-
             //                        }
             //                        j++;
             //                    }
             //                    if (test == true)
             //                    {
             //                        count++;
-            //                        Console.Write("eded=" + i + "   ");                                  
+            //                        Console.Write($"{count}.eded=" + i + "   ");
             //                    }
-            //                   break;
+            //                    break;
             //                }
             //            }
             //        }
@@ -49,6 +48,7 @@ namespace ValueReferenceType
             //    {
 
             //        Console.WriteLine("Duzgun input verin");
+            //        Console.WriteLine("------------------");
             //    }
             //}
             #endregion
@@ -67,34 +67,31 @@ namespace ValueReferenceType
             //    }
             //}
             //Console.Write("arr1 massivinin uzunlugunu daxil edin=");
-            //int m = Convert.ToInt32(Console.ReadLine());          
-            //int[] arr1 = new int[n];            
-            //int max1 = arr1[0];          
+            //int m = Convert.ToInt32(Console.ReadLine());
+            //int[] arr1 = new int[m];
+            ////`int max1 = arr1[0];
             //for (int j = 0; j < arr1.Length; j++)
             //{
             //    arr1[j] = Convert.ToInt32(Console.ReadLine());
-            //    if (arr1[j] > max1)
+            //    if (arr1[j] > max)
             //    {
-            //        max1 = arr1[j];
+            //        max = arr1[j];
             //    }
             //}
-            //if (max>max1)
-            //{
-            //    Console.WriteLine("2 massivin icerisinde en boyuk eded="+max);
-            //}
-            //else
-            //{
-            //    Console.WriteLine("arr ve arr1 massivlerinin icerisinde olan  en boyuk eded=" + max1);
-            //}
+
+            //Console.WriteLine("--------");
+            //Console.WriteLine("En boyuk eded="+max);
             #endregion
 
             #region Verilmiş n ədədinin son rəqəmini onun əvvəlinə gətirərək yeni bir ədəd düzəldin 
-            //int n, a, b, c;
-            //n = 245;
-            //a = n / 100 % 10;
-            //b = n / 10 % 10;
-            //c = n % 10;
-            //Console.WriteLine("Daxil edilen eded=" + n + "\n\nSonuncu reqemi evvele getirenden sonra alinan eded=" + c + a + b);
+            int n, a, b, c;
+            n = Convert.ToInt32(Console.ReadLine());
+
+            //n = 6;
+            a = n % 10;
+            b = n / 10;
+
+            Console.WriteLine("Daxil edilen eded=" + n + "\n\nSonuncu reqemi evvele getirenden sonra alinan eded=" + a + b);
             #endregion
         }
     }
